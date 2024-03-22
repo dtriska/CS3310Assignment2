@@ -1,0 +1,7 @@
+Anagrams of "deer": deer 
+Anagrams of "run": run 
+Anagrams of "eat": eat 
+Anagrams of "Greece": Greece 
+Anagrams of "Thermal": Thermal 
+Anagrams of "Broccoli": Broccoli 
+Anagrams of "Dear": Dear 

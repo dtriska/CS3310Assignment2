@@ -1,5 +1,3 @@
-writeup.txt
-
 Generalized Time Complexity:
 O(n * (k * log(k) + m))
 

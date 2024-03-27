@@ -1,0 +1,8 @@
+writeup.txt
+
+Generalized Time Complexity:
+O(n * (k * log(k) + m))
+
+n: Number of words in the input file.
+m: Number of lines in the CSV file.
+k: Maximum length of a word.

@@ -1,7 +1,7 @@
-Anagrams of "deer": deer 
-Anagrams of "run": run 
-Anagrams of "eat": eat 
+Anagrams of "eat": ate eat eta tea 
+Anagrams of "run": run urn 
+Anagrams of "Thermal": thermal 
 Anagrams of "Greece": Greece 
-Anagrams of "Thermal": Thermal 
-Anagrams of "Broccoli": Broccoli 
-Anagrams of "Dear": Dear 
+Anagrams of "deer": Reed deer reed 
+Anagrams of "Dear": Dare dare dear read 
+Anagrams of "Broccoli": broccoli 

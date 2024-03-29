@@ -1,3 +1,18 @@
+Reading Input File (O(n)):
+We iterate over each line of the input file, where n is the number of words in the input file. This operation takes O(n) time.
+
+Reading CSV File (O(m)):
+We iterate over each line of the CSV file, where m is the number of lines in the CSV file. This operation takes O(m) time.
+
+Passing and Processing CSV Data (O(m * k * log(k))):
+For each line in the CSV file, we parse the data and process it.
+Passing each line involves splitting the line based on commas and semicolons, which takes O(k) time for each word, where k is the maximum length of a word.
+After passing, we sort the characters of each word alphabetically. Sorting k characters takes O(k * log(k)) time.
+Since we perform these operations for each word in each line of the CSV file, the total time complexity for passing and processing the CSV data is O(m * k * log(k)).
+
+Writing Output (O(n)):
+For each word in the input file, we write the results to the output file. This operation takes O(n) time.
+
 Generalized Time Complexity:
 O(n * (k * log(k) + m))
 
